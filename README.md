@@ -11,6 +11,4 @@ This is a text framework pod for educational purpose to learn the process starti
 # Screenshots
 ![SayHello_App_Screenshot](https://i.imgur.com/PC4OzwE.png)
 
-[![Uploading SampleFrameBySri.png…]()](https://imgur.com/PC4OzwE)https://imgur.com/PC4OzwE
-
 
