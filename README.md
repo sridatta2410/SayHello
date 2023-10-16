@@ -9,6 +9,6 @@ This is a text framework pod for educational purpose to learn the process starti
 2. Run pod install 
 
 # Screenshots
-![Uploading SampleFrameBySri.png…]()
+[![Uploading SampleFrameBySri.png…]()](https://imgur.com/PC4OzwE)https://imgur.com/PC4OzwE
 
 
