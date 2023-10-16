@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'SayHelloExample' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for SayHelloExample
+  #pod 'SayHello', :path => '/Users/krify/Desktop/SayHello/SayHello'
+  #pod 'SayHelloBySri'
+  #pod 'SayHelloBySri', :git => "https://github.com/sridatta2410/SayHello.git"
+  #pod try SayHelloBySri
+  pod 'SayHelloBySri', '~> 1.0'
+  
+end

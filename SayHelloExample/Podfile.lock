@@ -1,0 +1,16 @@
+PODS:
+  - SayHelloBySri (1.0.0)
+
+DEPENDENCIES:
+  - SayHelloBySri (~> 1.0)
+
+SPEC REPOS:
+  trunk:
+    - SayHelloBySri
+
+SPEC CHECKSUMS:
+  SayHelloBySri: 9306769fe5c51c692a159fe4bc7acad492a7e24a
+
+PODFILE CHECKSUM: 9fe30a96c3074b161c9e8acad74d44b778c06425
+
+COCOAPODS: 1.11.3
