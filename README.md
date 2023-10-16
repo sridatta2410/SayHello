@@ -9,5 +9,6 @@ This is a text framework pod for educational purpose to learn the process starti
 2. Run pod install 
 
 # Screenshots
-![Alt sayhello_app_screenshot]([image link](https://i.imgur.com/PC4OzwE.png)https://i.imgur.com/PC4OzwE.png)
+![Uploading SampleFrameBySri.png…]()
+
 
